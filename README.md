@@ -1,2 +1,3 @@
 # demo
-First Git rrepository 
+First Git Repository 
+Author - yash verma 
